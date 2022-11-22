@@ -1,0 +1,142 @@
+body {
+    font-size: 18px;
+    font-family: barlow;
+    font-weight: 400;
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-top:25px;
+}
+
+p {
+    color: hsl(221, 23%, 58%);
+    font-size: 14px;
+}
+.nav-top-div {
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav-button-div {
+    margin-right: 55px;
+}
+.nav-button {
+    background-color: rgb(196, 193, 193);
+    border: rgb(196, 193, 193) 1px solid;
+    padding: 7px 9px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+section {
+    margin-top: 90px;
+}
+ .section-second-all {
+    padding-top: 30px;
+ }
+
+.section-top-div {
+    display: inline-block;
+    width: 450px;
+}
+
+.section-top-image {
+    float: right;
+    margin-right: 50px;
+    border-radius: 13px;
+}
+.section-first-image {
+    height:300px;
+    width: 450px;
+    border-radius: 13px;
+}
+
+.section-top-heading {
+    font-weight:700;
+    font-size: 40px;
+
+}
+.section-top-button {
+    background-color: hsl(22, 89%, 52%);
+    border-radius: 10px;
+    border:hsl(22, 89%, 52%) 1px solid ;
+    padding: 8px 10px;
+    color: white;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.second-section-heading {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.section-second-image {
+    height: 300px;
+    width: 200px;
+    border-radius: 13px;
+    filter: sepia(100%) ;
+    -webkit-filter: sepia(100%);
+}
+
+.second-button {
+    display: flex;
+    padding-top: 18px;
+}
+
+.section-third-image {
+    height: 300px;
+    width: 450px;
+    border-radius: 13px;
+    margin-left: 20px;
+}
+
+.second-section {
+    display: inline-block;
+}
+.second-section-para {
+    display: inline-block;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 60px;
+    vertical-align: top;
+}
+
+footer {
+    margin-top: 50px;
+}
+.footer-main-div {
+    display: flex;
+}
+.footer-first-image {
+    background-color: hsl(22, 89%, 52%);
+    margin-bottom: 20px;
+    padding: 8px 8px;
+    border-radius: 7px;
+}
+.footer-para-one {
+    width: 200px;
+    display: inline-block;
+}
+
+.footer-heading-one {
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.footer-heading {
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 8px;
+
+}
+.footer-heading-last {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.footer-para {
+    width: 200px;
+    display: inline-block;
+    padding-left: 90px;
+    
+}
